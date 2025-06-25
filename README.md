@@ -9,7 +9,6 @@ The training was conducted over 20 epochs with a fixed batch size, resulting in 
 ## Training
 - Model: YOLOv8  
 - Epochs: 20  
-- Batch size: Fixed  
 - Performance:
   - **mAP@0.5**: `0.799`
   - **mAP@0.5:0.95**: `0.554`
