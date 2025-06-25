@@ -21,3 +21,16 @@ The web app is developed using the **Flask** framework for the backend. It allow
 1. Upload an image.
 2. Process the image using the trained YOLOv8 model.
 3. View the detection results with bounding boxes and classification labels.
+
+
+## How to Run
+
+1. Clone this repository.
+2. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the project:
+   ```bash
+   python app.py
+   
