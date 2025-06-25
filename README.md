@@ -8,9 +8,18 @@ The training was conducted over 20 epochs with a fixed batch size, resulting in 
 
 ---
 
-## 🚀 Run the Project
+## Training
+- Model: YOLOv8  
+- Epochs: 20  
+- Batch size: Fixed  
+- Performance:
+  - **mAP@0.5**: `0.799`
+  - **mAP@0.5:0.95**: `0.554`
+  - **mAP@0.75**: `0.602`
 
-Pastikan Python sudah terinstal. Jalankan perintah berikut di terminal:
+## Web Application
+The web app is developed using the **Flask** framework for the backend. It allows users to:
 
-```bash
-python app.py
+1. Upload an image.
+2. Process the image using the trained YOLOv8 model.
+3. View the detection results with bounding boxes and classification labels.
