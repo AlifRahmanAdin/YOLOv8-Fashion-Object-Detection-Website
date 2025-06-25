@@ -22,7 +22,7 @@ The web app is developed using the **Flask** framework for the backend. It allow
 3. View the detection results with bounding boxes and classification labels.
 
 
-## How to Run
+## How to Run Project
 
 1. Clone this repository.
 2. Install the dependencies:
