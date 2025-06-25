@@ -6,8 +6,6 @@ This project aims to build a web application capable of detecting fashion object
 
 The training was conducted over 20 epochs with a fixed batch size, resulting in good performance with a mAP@0.5 score of 0.799. The web application was developed using the Flask framework for the backend, allowing users to upload images, process them through the model, and display the detection results with bounding boxes and classification labels.
 
----
-
 ## Training
 - Model: YOLOv8  
 - Epochs: 20  
