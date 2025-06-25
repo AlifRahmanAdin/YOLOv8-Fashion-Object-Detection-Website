@@ -14,8 +14,3 @@ Pastikan Python sudah terinstal. Jalankan perintah berikut di terminal:
 
 ```bash
 python app.py
-
-
-
-```
-#tes
