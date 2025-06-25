@@ -8,7 +8,7 @@ Pelatihan dilakukan selama **20 epoch** dengan batch size tetap, menghasilkan pe
 
 ---
 
-## 🚀 Cara Menjalankan
+## 🚀 Run the Project
 
 Pastikan Python sudah terinstal. Jalankan perintah berikut di terminal:
 
