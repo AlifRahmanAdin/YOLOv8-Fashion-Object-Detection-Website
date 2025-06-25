@@ -27,10 +27,12 @@ The web app is developed using the **Flask** framework for the backend. It allow
 
 1. Clone this repository.
 2. Install the dependencies:
+   
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the project:
+4. Run the project:
+   
    ```bash
    python app.py
    
